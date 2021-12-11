@@ -30,3 +30,8 @@
 ![image](https://user-images.githubusercontent.com/70855182/145688327-0967a87a-3745-4223-8814-cd236e57353c.png)
 
 5.Модифицируйте код FTP-сервера таким образом, чтобы он поддерживал шифрование.
+
+![image](https://user-images.githubusercontent.com/70855182/145690763-c5e65092-2566-447f-beb1-2d55cadbc189.png)
+
+![image](https://user-images.githubusercontent.com/70855182/145690780-876fc219-b9b4-4872-bab3-a3b30a131933.png)
+
